@@ -1,0 +1,3 @@
+/Users/karolinasabonaityte/pj02/bin/CMakeFiles/rebuild_cache.dir
+/Users/karolinasabonaityte/pj02/bin/CMakeFiles/edit_cache.dir
+/Users/karolinasabonaityte/pj02/bin/CMakeFiles/pj02.dir
